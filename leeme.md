@@ -2,10 +2,10 @@
 # Nc = 0068
 
 ## Imagen Original 
-
+![alt text](image-6.png)
 
 ## Imagen a escala a grises
-![alt text](image-6.png)
+![alt text](image.png)
 
 ## Imagen desenfocada
 ![alt text](image-1.png)
