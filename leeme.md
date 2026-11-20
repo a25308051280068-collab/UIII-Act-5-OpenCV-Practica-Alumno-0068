@@ -1,8 +1,7 @@
 # Christian Garcia Jimenez 
 # Nc = 0068
-
-## Imagen Original 
-![alt text](image-6.png)
+## imagen original 
+![alt text](image-7.png)
 
 ## Imagen a escala a grises
 ![alt text](image.png)
